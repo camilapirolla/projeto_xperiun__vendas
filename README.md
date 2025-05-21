@@ -7,6 +7,7 @@ Responsabilidade: Desenvolver um dashboard simples que reúna informações rele
 Requisitos adicionais:
 
 Segmentação de clientes de acordo com os seguintes dados:
+
     - Receitas, custos e margens;  
 
     - Análise de receitas e custos por funcionários (vendedores e supervisores); 
